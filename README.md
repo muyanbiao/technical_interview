@@ -1,5 +1,5 @@
 # Technical Interview 技术面试练习
-优达学院上的算法课程，主要讲了常用的算法和数据结构。  
+[优达学院上(Udacity)](https://www.udacity.com/course/technical-interview--ud513)的算法课程，主要讲了常用的算法和数据结构。  
 
 课程特点：  
   1. 使用Python语言  
