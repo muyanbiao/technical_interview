@@ -1,4 +1,4 @@
-[Linked List](https://classroom.udacity.com/courses/ud513/lessons/7117335401/concepts/78875247320923)
+[Linked List](https://classroom.udacity.com/courses/ud513/lessons/7117335401/concepts/78875247320923)  
 There isn't a built-in data structure in Python that looks like a linked list. Thankfully, it's easy to make classes that represent data structures in Python! 
 
 Here's the code for an Element, which will be a single unit in a linked list:  
